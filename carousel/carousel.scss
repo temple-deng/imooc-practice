@@ -93,6 +93,8 @@ select {
   *font-size:100%; /*to enable resizing for IE*/
 }
 
+
+
 /* start own stylesheet */
 .poster-main {
   position: relative;
@@ -107,6 +109,7 @@ select {
       top: 0;
       img {
         display: block;
+        width: 100%;
       }
     }
   }
